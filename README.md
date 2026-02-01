@@ -1,6 +1,6 @@
 # Masters Admission Preparation
 
-This repository contains study materials and practice problems for BUET Masters admission preparation.
+This repository contains study materials and practice problems for Masters admission preparation.
 
 ## 📚 Contents
 
